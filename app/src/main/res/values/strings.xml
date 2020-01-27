@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieGuesser</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="guess_movie">Guess which movie matches the following description</string>
+    <string name="click_movie">Click on a movie to guess</string>
+    <string name="easy">EASY</string>
+    <string name="hard">HARD</string>
+    <string name="history">HISTORY</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="percentage">%1$f%%</string>
+    <string name="your_answer">Your answer:</string>
+    <string name="action_delete">delete</string>
+</resources>
